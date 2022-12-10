@@ -5,7 +5,7 @@ PRACTICE QUESTIONS FOR HASHING & PREFIX SUM :
 # EASY
 1. https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-double-strings-1/
 2. https://practice.geeksforgeeks.org/problems/in-first-but-second5423/1
-3.  
+3. https://www.codechef.com/problems/GCDQ 
 4.https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1 
 5.https://www.codechef.com/problems/ICL1905 
 6.  
